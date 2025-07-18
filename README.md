@@ -38,9 +38,9 @@ This fan design is based on a compact, functional fan that became a travel essen
 ## 🖼 Render Preview
 
 <img width="776" height="1418" alt="image" src="https://github.com/user-attachments/assets/b8edc276-6bde-4bc3-a7b6-26b6a1817560" />
-Front View:
+
 <img width="610" height="1408" alt="image" src="https://github.com/user-attachments/assets/9ef7d60f-0db7-49c6-a1b3-e8142c1ff18d" />
-Back View:
+
 <img width="714" height="1430" alt="image" src="https://github.com/user-attachments/assets/f9b87d5b-d810-4207-a37b-a57709ef94de" />
 
 
